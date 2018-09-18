@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{E8453B82-3710-4110-9786-389194F036C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{CE22A280-66FF-4873-AEAA-BBF6BBECD79D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8453B82-3710-4110-9786-389194F036C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8453B82-3710-4110-9786-389194F036C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8453B82-3710-4110-9786-389194F036C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE22A280-66FF-4873-AEAA-BBF6BBECD79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE22A280-66FF-4873-AEAA-BBF6BBECD79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE22A280-66FF-4873-AEAA-BBF6BBECD79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE22A280-66FF-4873-AEAA-BBF6BBECD79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
